@@ -1,0 +1,16 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('https://cdn.pixabay.com/photo/2011/12/14/12/11/space-11099_960_720.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.weather-card {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+  color: #fff;
+  box-shadow: 0 0 10px rgba(255,255,255,0.2);
+}
